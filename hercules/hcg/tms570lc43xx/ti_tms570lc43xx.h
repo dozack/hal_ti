@@ -1,0 +1,4 @@
+#ifndef TI_TMS570LC43XX_HAL
+#define TI_TMS570LC43XX_HAL
+
+#endif

@@ -4,8 +4,8 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-#ifndef HERCULES_HAL_H_
-#define HERCULES_HAL_H_
+#ifndef TI_RM46L852_H_
+#define TI_RM46L852_H_
 
 #include "include/sys_common.h"
 
@@ -60,4 +60,4 @@
 #include "include/rti.h"
 #include "include/sci.h"
 
-#endif /* HERCULES_HAL_H_ */
+#endif /* TI_RM46L852_H_ */

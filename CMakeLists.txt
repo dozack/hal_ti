@@ -1,2 +1,2 @@
-add_subdirectory(hercules)
-add_subdirectory(simplelink)
+add_subdirectory_ifdef(CONFIG_HAS_TI_HERCULES hercules)
+add_subdirectory_ifdef(CONFIG_HAS_TI_SIMPLELINK simplelink)
